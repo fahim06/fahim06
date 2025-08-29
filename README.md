@@ -48,25 +48,6 @@
 </p>
 
 
-<!-- <p> &nbsp &nbsp<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahim06&show_icons=true&locale=en&layout=compact" alt="fahim06" /></p>
-<p> &nbsp &nbsp<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahim06&show_icons=true&locale=en" alt="fahim06" /></p>
- -->
-
----
-
-## Trophies 🏆
-
-<p align="left">
-<img width=1000 src="https://github-profile-trophy.vercel.app/?username=fahim06&column=7&theme=gruvbox&no-frame=true"/>
-</p>
-
----
-<p>
-  <a href="https://github.com/fahim06">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=fahim06&theme=github-compact&hide_border=true&include_all_commits=true&count_private=true" alt="fahim06" />
-  </a>
-</p>
-
 ---
 
 ### 🔥 &nbsp; My Stats :
