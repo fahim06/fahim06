@@ -38,7 +38,7 @@ Here are some of the technologies and tools I work with:
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fahim06&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahim06&layout=compact&theme=radical" alt="Top Languages" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=fahim06&layout=compact&theme=radical" alt="WakaTime Stats" />
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=fahim06&layout=compact&theme=radical" alt="WakaTime Stats" /> -->
 </div>
 
 ## Recent Blog Posts
