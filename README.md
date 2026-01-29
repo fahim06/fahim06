@@ -69,7 +69,7 @@ Convolutional neural network implementation for medical imaging classification. 
 ## Selected Projects
 
 ### NeuroLens
-CIFAR-10 image classifier with graphical interface. Production-ready ML deployment using Taipy framework for interactive model inference.
+CIFAR-10 image classifier with graphical interface. Demonstration of a production-style ML deployment using the Taipy framework for interactive model inference.
 
 **Stack:** Python, TensorFlow/Keras, Taipy, CSS
 
