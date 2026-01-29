@@ -55,7 +55,7 @@ Machine Learning engineer with research focus in computer vision and deep learni
 
 Comparative analysis of MobileNet and Inception V3 architectures for agricultural image classification. Achieved 99.85% classification accuracy using transfer learning with fine-tuned MobileNet on citrus species dataset.
 
-**Methods:** Transfer Learning, MobileNet, Inception V3, Image Augmentation
+**Methods:** Transfer Learning with MobileNet, Image Augmentation; comparative baseline: Inception V3
 
 ### Brain Tumor Detection using Deep Learning
 **B.Sc. Thesis | Daffodil International University | 2022**
