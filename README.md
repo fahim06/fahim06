@@ -2,7 +2,7 @@
 
 ## Hi, I'm Fahim Yusuf 👋
 
-### AI/ML Engineer | Data Science Engineer | Research Engineer
+### AI/ML Engineer | Data Science Engineer | Researcher
 
 <img width="25%" align="right" alt="Coding" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
@@ -11,8 +11,6 @@
 - 📊 Data Science & ML Engineering
 - 🎯 Building intelligent systems
 
-<br />
-
 ---
 
 ### 🎯 What I Do
@@ -20,12 +18,10 @@
 <div align="left">
 <img alt="AI/ML" src="https://img.shields.io/badge/-AI/ML%20Engineering-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
 <img alt="Data Science" src="https://img.shields.io/badge/-Data%20Science-3776AB?style=flat&logo=python&logoColor=white" />
-<img alt="Research" src="https://img.shields.io/badge/-Research%20Engineering-7B68EE?style=flat&logo=academia&logoColor=white" />
+<img alt="Research" src="https://img.shields.io/badge/-Researcher-7B68EE?style=flat&logo=academia&logoColor=white" />
 <img alt="Deep Learning" src="https://img.shields.io/badge/-Deep%20Learning-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
 <img alt="Computer Vision" src="https://img.shields.io/badge/-Computer%20Vision-5C3EE8?style=flat&logo=opencv&logoColor=white" />
 </div>
-
-<br />
 
 ---
 
@@ -46,8 +42,6 @@
 </a>
 </div>
 
-<br />
-
 ---
 
 ### 💻 Languages
@@ -57,13 +51,10 @@
 <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black" />
 <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
 <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white" />
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
 <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" />
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
 </div>
-
-<br />
 
 ---
 
@@ -78,8 +69,6 @@
 <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" />
 <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
 </div>
-
-<br />
 
 ---
 
@@ -98,8 +87,6 @@
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
 </div>
 
-<br />
-
 ---
 
 ### 🔬 Research Focus
@@ -112,8 +99,6 @@
 <img alt="Image Classification" src="https://img.shields.io/badge/-Image%20Classification-1E90FF?style=flat&logo=opencv&logoColor=white" />
 </div>
 
-<br />
-
 ---
 
 ### 📈 Current Focus
@@ -123,8 +108,6 @@
 - 🔄 End-to-End ML Pipelines
 - 📚 Computer Vision Research
 
-<br />
-
 ---
 
 ### 🤝 Open to Collaborate
@@ -133,8 +116,6 @@
 - 🏥 Medical Imaging Applications
 - 🌾 Agricultural AI Solutions
 - 🛠️ ML Engineering Projects
-
-<br />
 
 ---
 
@@ -148,8 +129,6 @@
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahim06&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-
-<br />
 
 ---
 
