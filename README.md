@@ -22,7 +22,7 @@ Machine Learning engineer with research focus in computer vision and deep learni
 |----------|-------------|
 | Deep Learning | TensorFlow, Keras, CNN Architectures |
 | Computer Vision | VGG-16, MobileNet, Inception V3 |
-| Machine Learning | Scikit-learn, Classification, Predictive Modeling |
+| Machine Learning | Scikit-learn, Classification, Regression |
 | Data Processing | Pandas, NumPy, PIL/Pillow |
 | Visualization | Seaborn, Matplotlib |
 | ML Deployment | Taipy Framework |
