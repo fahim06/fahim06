@@ -119,6 +119,12 @@
 
 ### 📊 GitHub Stats
 
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fahim06&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahim06&theme=buefy&layout=compact" />
+</a>
+
+
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=fahim06&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
