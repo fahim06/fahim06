@@ -74,17 +74,17 @@ CIFAR-10 image classifier with graphical interface. Production-ready ML deployme
 **Stack:** Python, TensorFlow/Keras, Taipy, CSS
 
 ### Object Detection Pipeline
-Object detection implementation for real-time inference applications.
+End-to-end object detection workflow for real-time camera and video stream analysis, including image preprocessing, model inference, and post-processing of bounding boxes and confidence scores for multiple object classes.
 
 **Stack:** Python, Computer Vision
 
 ### ChatBot
-Conversational AI system implementation.
+Task-oriented conversational agent for handling FAQ-style queries, built with intent classification, keyword-based entity extraction, and a response selection module supporting multi-turn dialogue in a terminal or web-based interface.
 
 **Stack:** Python, NLP
 
 ### Task Manager
-Task management application with Python backend.
+REST-style task management backend supporting CRUD operations for tasks, status and priority tracking, simple user-level separation, and persistent storage using a lightweight database layer.
 
 **Stack:** Python
 
