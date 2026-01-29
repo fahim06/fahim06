@@ -127,7 +127,7 @@
 </div>
 
 <div align="center">
-    <img src="https://streak-stats.demolab.com/?user=fahim06&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=fahim06&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
