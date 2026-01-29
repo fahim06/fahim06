@@ -31,7 +31,7 @@ Machine Learning engineer with research focus in computer vision and deep learni
 
 | Category | Technologies |
 |----------|-------------|
-| Analysis | Pandas, NumPy |
+| Analysis | Exploratory Data Analysis (EDA), Statistical Modeling |
 | Visualization | Seaborn, Matplotlib |
 | Databases | MySQL, MongoDB |
 | Notebooks | Jupyter |
