@@ -25,7 +25,7 @@ Machine Learning engineer with research focus in computer vision and deep learni
 | Machine Learning | Scikit-learn, Classification, Regression |
 | Data Processing | Pandas, NumPy, PIL/Pillow |
 | Visualization | Seaborn, Matplotlib |
-| ML Deployment | Taipy Framework |
+| ML Deployment | Taipy |
 
 ### Data Science Stack
 
