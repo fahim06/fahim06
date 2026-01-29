@@ -6,7 +6,7 @@ I'm Fahim Yusuf, a dreamer passionate about turning ideas into reality through c
 - 🌱 Currently learning: Django
 - 💻 Interests: Machine Learning, Deep Learning
 - 📍 Location: Nikunja-2, Dhaka, Bangladesh
-- 🌐 Website: [fahimyusuf.com](http://fahimyusuf.com/)
+- 🌐 Website: [fahimyusuf.com.bd](http://fahimyusuf.com.bd/)
 - ⚡ Fun fact: I think I am funny
 
 ## Tech Stack
