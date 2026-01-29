@@ -119,11 +119,14 @@
 
 ### 📊 GitHub Stats
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fahim06&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahim06&theme=buefy&layout=compact" />
-</a>
+  <div align="center"> 
+     <a href="">
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fahim06&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+    </a>
+    
+</div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahim06&title_color=2257EA&bg_color=f7f7f7&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=fahim06&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
