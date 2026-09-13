@@ -6,7 +6,7 @@
 
 *Turning machine learning research into software that ships.*
 
-<img alt="Profile views" src="https://komarev.com/ghpvc/?username=fahim06&style=for-the-badge&color=0F172A&label=Profile%20Views" />
+<img alt="Profile views" src="https://profile-views-badge.vercel.app/api/view" />
 
 </div>
 
