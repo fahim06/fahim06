@@ -1,139 +1,117 @@
-![Profile Views](https://komarev.com/ghpvc/?username=fahim06&color=blueviolet)
+<div align="center">
 
-## Hi, I'm Fahim Yusuf 👋
+# Fahim Yusuf
 
-### AI/ML Engineer | Data Science Engineer | Researcher
+**Software Engineer · AI/ML**
 
-<img width="25%" align="right" alt="Coding" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+*Turning machine learning research into software that ships.*
 
-- 🔬 Deep Learning & Computer Vision Research
-- 🧠 Medical Imaging & Agricultural AI
-- 📊 Data Science & ML Engineering
-- 🎯 Building intelligent systems
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=fahim06&style=for-the-badge&color=0F172A&label=Profile%20Views" />
 
----
-
-### 🎯 What I Do
-
-<div align="left">
-    <img alt="AI/ML" src="https://img.shields.io/badge/-AI/ML%20Engineering-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-    <img alt="Data Science" src="https://img.shields.io/badge/-Data%20Science-3776AB?style=flat&logo=python&logoColor=white" />
-    <img alt="Research" src="https://img.shields.io/badge/-Researcher-7B68EE?style=flat&logo=academia&logoColor=white" />
-    <img alt="Deep Learning" src="https://img.shields.io/badge/-Deep%20Learning-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-    <img alt="Computer Vision" src="https://img.shields.io/badge/-Computer%20Vision-5C3EE8?style=flat&logo=opencv&logoColor=white" />
 </div>
 
 ---
 
-### 🔗 Connect with me
+## About
 
-<div align="left">
-    <a href="https://linkedin.com/in/fahim06/">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="https://twitter.com/fahim1206">
-        <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/>
-    </a>
-    <a href="http://fahimyusuf.com.bd/">
-        <img alt="Website" src="https://img.shields.io/badge/-Website-000000?style=flat&logo=google-chrome&logoColor=white"/>
-    </a>
-    <a href="mailto:fahim@example.com">
-        <img alt="Email" src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
-    </a>
-</div>
+I'm a software engineer who likes the space where machine learning meets real software. Training a model is the fun part. Making it dependable, explainable, and easy to deploy is the part that keeps me curious. I have a B.Sc. and an M.Sc. in Computer Science & Engineering, and my long-term goal is simple to say and hard to do: become a world-class AI, software, and research engineer. My way there is reading papers, rebuilding the ideas in code, and shipping complete products from database to interface. These days that means AI agents, prompt engineering, computer vision, and vector databases, mostly with Python, Django, and TensorFlow.
 
----
+## Tech Stack
 
-### 💻 Languages
+<table>
+  <tr>
+    <td valign="top"><b>Languages</b></td>
+    <td>
+      <img alt="Python" src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=white" />
+      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=white" />
+      <img alt="SQL" src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge" />
+      <img alt="HTML" src="https://img.shields.io/badge/HTML-0F172A?style=for-the-badge&logo=html5&logoColor=white" />
+      <img alt="CSS" src="https://img.shields.io/badge/CSS-0F172A?style=for-the-badge&logo=css&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Backend</b></td>
+    <td>
+      <img alt="Django" src="https://img.shields.io/badge/Django-0F172A?style=for-the-badge&logo=django&logoColor=white" />
+      <img alt="Django REST Framework" src="https://img.shields.io/badge/Django%20REST%20Framework-0F172A?style=for-the-badge" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Frontend</b></td>
+    <td>
+      <img alt="React" src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=white" />
+      <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+      <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-0F172A?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>ML / AI</b></td>
+    <td>
+      <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-0F172A?style=for-the-badge&logo=tensorflow&logoColor=white" />
+      <img alt="Keras" src="https://img.shields.io/badge/Keras-0F172A?style=for-the-badge&logo=keras&logoColor=white" />
+      <img alt="NumPy" src="https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge&logo=numpy&logoColor=white" />
+      <img alt="Pandas" src="https://img.shields.io/badge/Pandas-0F172A?style=for-the-badge&logo=pandas&logoColor=white" />
+      <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-0F172A?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Research Focus</b></td>
+    <td>
+      <img alt="Medical Imaging" src="https://img.shields.io/badge/Medical%20Imaging-0F172A?style=for-the-badge" />
+      <img alt="Agricultural AI" src="https://img.shields.io/badge/Agricultural%20AI-0F172A?style=for-the-badge" />
+      <img alt="CNN" src="https://img.shields.io/badge/CNN-0F172A?style=for-the-badge" />
+      <img alt="Image Classification" src="https://img.shields.io/badge/Image%20Classification-0F172A?style=for-the-badge" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Databases</b></td>
+    <td>
+      <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img alt="SQLite" src="https://img.shields.io/badge/SQLite-0F172A?style=for-the-badge&logo=sqlite&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Infra &amp; Tools</b></td>
+    <td>
+      <img alt="Docker" src="https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=white" />
+      <img alt="Git" src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=white" />
+      <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-0F172A?style=for-the-badge&logo=githubactions&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-<div align="left">
-    <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-    <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black" />
-    <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
-    <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white" />
-    <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" />
-    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-    <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-</div>
+## Featured Projects
 
----
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [`NeuroLens`](https://github.com/fahim06/NeuroLens) | CIFAR-10 image classifier with a CNN under the hood and a Taipy GUI on top | `Python` · `Taipy` |
+| [`zai-glm-usage-tracker`](https://github.com/Fahim-Yusuf/zai-glm-usage-tracker) | Published VS Code extension for real-time Z.ai GLM usage, quota, and multi-account tracking | `TypeScript` |
+| [`student_management_system`](https://github.com/fahim06/student_management_system) | Django app with separate admin, staff, and student portals for courses, attendance, and feedback | `Django` · `Bootstrap` |
 
-### 🤖 AI/ML Stack
+## GitHub Analytics
 
-<div align="left">
-    <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-    <img alt="Keras" src="https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white" />
-    <img alt="Scikit Learn" src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
-    <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
-    <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-    <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-    <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
-</div>
-
----
-
-### 🛠️ Tools & Platforms
-
-<div align="left">
-    <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
-    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
-    <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-    <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" />
-    <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
-    <img alt="GCP" src="https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" />
-    <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-</div>
-
----
-
-### 🔬 Research Focus
-
-<div align="left">
-    <img alt="Medical Imaging" src="https://img.shields.io/badge/-Medical%20Imaging-DC143C?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xOSAzSDVjLTEuMSAwLTIgLjktMiAydjE0YzAgMS4xLjkgMiAyIDJoMTRjMS4xIDAgMi0uOSAyLTJWNWMwLTEuMS0uOS0yLTItMnptLTEgMTZINlY2aDEydjEzeiIvPjwvc3ZnPg==&logoColor=white" />
-    <img alt="Agricultural AI" src="https://img.shields.io/badge/-Agricultural%20AI-228B22?style=flat&logo=leaf&logoColor=white" />
-    <img alt="Transfer Learning" src="https://img.shields.io/badge/-Transfer%20Learning-9400D3?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQyIDAtOC0zLjU4LTgtOHMzLjU4LTggOC04IDggMy41OCA4IDgtMy41OCA4LTggOHoiLz48L3N2Zz4=&logoColor=white" />
-    <img alt="CNN" src="https://img.shields.io/badge/-CNN%20Architectures-FF4500?style=flat&logo=tensorflow&logoColor=white" />
-    <img alt="Image Classification" src="https://img.shields.io/badge/-Image%20Classification-1E90FF?style=flat&logo=opencv&logoColor=white" />
-</div>
-
----
-
-### 📈 Current Focus
-
-- 🧪 Deep Learning Architecture Optimization
-- 🌐 Django for ML Deployment
-- 🔄 End-to-End ML Pipelines
-- 📚 Computer Vision Research
-
----
-
-### 🤝 Open to Collaborate
-
-- 🔬 Research Projects in AI/ML
-- 🏥 Medical Imaging Applications
-- 🌾 Agricultural AI Solutions
-- 🛠️ ML Engineering Projects
-
----
-
-### 📊 GitHub Stats
-
-<div align="center"> 
-    <a href="">
-        <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fahim06&hide_border=true&count_private=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=40" />
-    </a>
+<div align="center">
+  <img width="49%" alt="GitHub stats" src="https://fahim06-readme-stats.vercel.app/api?username=fahim06&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0F172A&title_color=E2E8F0&text_color=94A3B8&icon_color=38BDF8" />
+  <img width="49%" alt="Top languages" src="https://fahim06-readme-stats.vercel.app/api/top-langs/?username=fahim06&layout=compact&hide_border=true&bg_color=0F172A&title_color=E2E8F0&text_color=94A3B8" />
 </div>
 
 <div align="center">
-    <img src="https://streak-stats.demolab.com/?user=fahim06&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img alt="Current streak" src="https://streak-stats.demolab.com/?user=fahim06&hide_border=true&background=0F172A&stroke=1E293B&ring=38BDF8&fire=FB923C&currStreakNum=E2E8F0&currStreakLabel=38BDF8&sideNums=E2E8F0&sideLabels=94A3B8&dates=64748B&excludeDaysLabel=94A3B8" />
 </div>
 
 ---
 
+## Get in Touch
+
 <div align="center">
-
-⭐ From [fahim06](https://github.com/fahim06)
-
+  <a href="https://linkedin.com/in/fahim06/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0wLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=&logoColor=white" />
+  </a>
+  <a href="mailto:fahim.yusuf06@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://fahimyusuf.com.bd">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
 </div>
